@@ -1,0 +1,2 @@
+# omondi.dev
+Personal Website
